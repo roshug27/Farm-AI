@@ -55,5 +55,3 @@
    ```
 
 ---
-
-**Would you like me to help you generate a professional "Social Preview" image or a logo for this GitHub repository?**
